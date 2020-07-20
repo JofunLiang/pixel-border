@@ -1,0 +1,21 @@
+{
+  "name": "pixel-border",
+  "version": "0.0.1",
+  "description": "Single pixel border tool.",
+  "main": "pixel-border.css",
+  "files": ["pixel-border.css", "pixel-border.min.css"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JofunLiang/pixel-border.git"
+  },
+  "keywords": ["Mobile", "Border", "CSS", "pixel-border"],
+  "author": "jofunliang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JofunLiang/pixel-border/issues"
+  },
+  "homepage": "https://github.com/JofunLiang/pixel-border#readme"
+}
